@@ -1,0 +1,90 @@
+{
+    "wednesday": [
+        {
+            "id": 2068869,
+            "subject": "Grundlagen interaktiver Gestaltung",
+            "startTime": "08:00:00",
+            "endTime": "08:45:00",
+            "activityType": "Unterricht"
+        },
+        {
+            "id": 2068872,
+            "subject": "Grundlagen interaktiver Gestaltung",
+            "startTime": "08:45:00",
+            "endTime": "09:30:00",
+            "activityType": "Unterricht"
+        },
+        {
+            "id": 2068875,
+            "subject": "Grundlagen interaktiver Gestaltung",
+            "startTime": "09:50:00",
+            "endTime": "10:35:00",
+            "activityType": "Unterricht"
+        },
+        {
+            "id": 2068878,
+            "subject": "Grundlagen interaktiver Gestaltung",
+            "startTime": "10:35:00",
+            "endTime": "11:20:00",
+            "activityType": "Unterricht"
+        },
+        {
+            "id": 2068881,
+            "subject": "Grundlagen interaktiver Gestaltung",
+            "startTime": "11:40:00",
+            "endTime": "12:25:00",
+            "activityType": "Unterricht"
+        },
+        {
+            "id": 2068884,
+            "subject": "Grundlagen interaktiver Gestaltung",
+            "startTime": "12:25:00",
+            "endTime": "13:10:00",
+            "activityType": "Unterricht"
+        },
+        {
+            "id": 2072667,
+            "subject": "Grundlagen der Webtechnologien / Vorlesung",
+            "startTime": "14:00:00",
+            "endTime": "14:45:00",
+            "activityType": "Unterricht"
+        },
+        {
+            "id": 2072670,
+            "subject": "Grundlagen der Webtechnologien / Vorlesung",
+            "startTime": "14:45:00",
+            "endTime": "15:30:00",
+            "activityType": "Unterricht"
+        },
+        {
+            "id": 2073171,
+            "subject": "Grundlagen der Softwareentwicklung / Praktikum",
+            "startTime": "15:40:00",
+            "endTime": "16:25:00",
+            "activityType": "Unterricht"
+        },
+        {
+            "id": 2073174,
+            "subject": "Grundlagen der Softwareentwicklung / Praktikum",
+            "startTime": "16:25:00",
+            "endTime": "17:10:00",
+            "activityType": "Unterricht"
+        }
+    ],
+    "tuesday": [
+        {
+            "id": 2077752,
+            "subject": "Zeichnen (Zusatzangebot)",
+            "startTime": "17:10:00",
+            "endTime": "17:55:00",
+            "activityType": "Unterricht"
+        },
+        {
+            "id": 2077755,
+            "subject": "Zeichnen (Zusatzangebot)",
+            "startTime": "17:55:00",
+            "endTime": "18:40:00",
+            "activityType": "Unterricht"
+        }
+    ]
+}
