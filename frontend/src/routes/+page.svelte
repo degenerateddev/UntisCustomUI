@@ -8,9 +8,9 @@
     const timetable = data.timetable;
 </script>
 
-<main>
+<main class="space-y-10">
     {#each Object.keys(timetable).reverse() as day}
-        <h1>{day.toUpperCase()}</h1>
+        <h1 class="text-4xl">{day.toUpperCase()}</h1>
 
         {#each timetable[day] as schedule}
             <Card>
